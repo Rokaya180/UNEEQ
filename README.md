@@ -44,7 +44,7 @@ Policy Recommendation:
 
 - Test strategic discounting on Technology products since they sustain profits even at moderate discounts.
 
-  Second Task at Uneeq Interns 🚀 
+Second Task at Uneeq Interns 🚀 
 
 In this project, I conducted a stock market analysis.The goal was to identify market weaknesses, risk factors, and strategic investment opportunities
 

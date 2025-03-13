@@ -42,7 +42,39 @@ Policy Recommendation:
 
 - Reduce discounts on Office Supplies to prevent profit erosion.
 
-- Test strategic discounting on Technology products since they sustain profits even at moderate discounts. 
+- Test strategic discounting on Technology products since they sustain profits even at moderate discounts.
+
+  Second Task at Uneeq Interns 🚀 
+
+In this project, I conducted a stock market analysis.The goal was to identify market weaknesses, risk factors, and strategic investment opportunities
+
+Analysis preformed:
+
+✅ Exploratory Data Analysis (EDA): Identified weak spots in global stock exchanges
+
+✅ Sharpe Ratio & Risk Analysis: Evaluated the best-performing markets with risk-adjusted returns
+
+✅ Volatility Clustering: Spotted high-risk periods across different regions
+
+✅ Market Crash Detection: Analyzed extreme downturns and global financial shocks
+
+✅ Rolling Correlation: Revealed stock indices moving together, tracking systemic risks
+
+✅ Economic Event Impact: Measured how global crises (COVID-19, 2008 Crash, etc.) shaped markets.
+
+Insights📊:
+
+1) Some markets (e.g., Germany, Hong Kong, and Switzerland) have higher risk-adjusted returns, meaning they perform well even after accounting for volatility.
+
+- Strategy: Diversify into high Sharpe Ratio markets for long-term wealth preservation.
+
+2) China and Europe had frequent high-volatility periods, exposing investors to high-risk clusters.
+
+- Policy: Introduce dynamic risk controls (e.g., volatility circuit breakers) to reduce systemic crashes.
+
+3) European indices (GDAXI, N100, NYA) showed high correlation, meaning a crash in one could cascade into others.
+
+- Strategy: Expand portfolio exposure beyond correlated regions to mitigate contagion effects.
 
 - Reevaluate discounting policies in low-profit states, as higher discounts do not always translate to better revenue.
 - 

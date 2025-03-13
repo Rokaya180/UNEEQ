@@ -41,6 +41,8 @@ Policy Recommendation:
 - Reduce discounts on Office Supplies to prevent profit erosion.
 
 - Test strategic discounting on Technology products since they sustain profits even at moderate discounts.
+- 
+Linkedin post: https://www.linkedin.com/posts/rokaya-ashraf-229a3522b_uneeq-stockmarket-powerbi-activity-7306091314377383937-dsQZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmjvgEBOxPMAEGcjbWHOTn9iCMH9yDCTpM
 
 Second Task at Uneeq Interns 🚀 
 
@@ -73,10 +75,6 @@ Insights📊:
 3) European indices (GDAXI, N100, NYA) showed high correlation, meaning a crash in one could cascade into others.
 
 - Strategy: Expand portfolio exposure beyond correlated regions to mitigate contagion effects.
-
-  Linkedin post: https://www.linkedin.com/posts/rokaya-ashraf-229a3522b_uneeq-stockmarket-powerbi-activity-7306091314377383937-dsQZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmjvgEBOxPMAEGcjbWHOTn9iCMH9yDCTpM
-
-- Reevaluate discounting policies in low-profit states, as higher discounts do not always translate to better revenue.
-- 
+ 
 - linkedin Post: https://www.linkedin.com/posts/rokaya-ashraf-229a3522b_first-task-at-uneeq-interns-began-with-activity-7304146196145532929-veOx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmjvgEBOxPMAEGcjbWHOTn9iCMH9yDCTpM
  

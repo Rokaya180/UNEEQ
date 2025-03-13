@@ -34,8 +34,6 @@ The most profitable states (e.g., California, New York, Washington) primarily us
 
 In contrast, the least profitable states (e.g., Texas, Ohio, Pennsylvania) apply the highest discounts, but instead of driving sales, these discounts lead to profit erosion.
 
-
-
 Policy Recommendation:
 
 - Limit Discounts to ≤20% for Most Categories → Since discounts above 20% lead to losses.
@@ -75,6 +73,8 @@ Insights📊:
 3) European indices (GDAXI, N100, NYA) showed high correlation, meaning a crash in one could cascade into others.
 
 - Strategy: Expand portfolio exposure beyond correlated regions to mitigate contagion effects.
+
+  Linkedin post: https://www.linkedin.com/posts/rokaya-ashraf-229a3522b_uneeq-stockmarket-powerbi-activity-7306091314377383937-dsQZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmjvgEBOxPMAEGcjbWHOTn9iCMH9yDCTpM
 
 - Reevaluate discounting policies in low-profit states, as higher discounts do not always translate to better revenue.
 - 

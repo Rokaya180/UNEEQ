@@ -76,5 +76,17 @@ Insights📊:
 
 - Strategy: Expand portfolio exposure beyond correlated regions to mitigate contagion effects.
  
-linkedin Post: https://www.linkedin.com/posts/rokaya-ashraf-229a3522b_first-task-at-uneeq-interns-began-with-activity-7304146196145532929-veOx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmjvgEBOxPMAEGcjbWHOTn9iCMH9yDCTpM
- 
+Linkedln Post:: https://www.linkedin.com/posts/rokaya-ashraf-229a3522b_first-task-at-uneeq-interns-began-with-activity-7304146196145532929-veOx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmjvgEBOxPMAEGcjbWHOTn9iCMH9yDCTpM
+
+Third Task at Uneeq Interns 🚀 
+Key Insights Uncovered in Uber Data:
+
+- 93% of all trips were business-related, highlighting Uber’s role in corporate travel.
+- 104 short trips (<2 miles) with no recorded purpose — potential cost leakage that could be optimized.
+- Longest business route: Latta ➜ Jacksonville (310 miles, 330 minutes) — an opportunity for alternate transport options.
+- Peak usage times: Fridays and late afternoons (3–5 PM), aligned with business schedules.
+- Cities like Cary, Jacksonville, and Morrisville stood out as top trip hubs.
+- Weekend trips were significantly longer, hinting at blended business and leisure travel.
+- Flat-rate pricing ($1.50/mile) suggested corporate pricing consistency without surge impact.
+
+Linkedln Post: https://www.linkedin.com/posts/rokaya-ashraf-229a3522b_dataanalytics-powerbi-python-activity-7309330130693185536-sHBb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmjvgEBOxPMAEGcjbWHOTn9iCMH9yDCTpM
